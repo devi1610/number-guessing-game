@@ -50,4 +50,4 @@ Correct! You guessed the number in 3 attempts.
 
 
 ## **Conclusion**
-This project is perfect for beginners who want to practice Python and understand basic logic building.
+This project is perfect for beginners who want to practice Python and understand basic logic building. 
